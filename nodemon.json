@@ -1,0 +1,4 @@
+  {
+    "watch": ["lib", "connect", "all", "plugins", "./"],
+    "ext": "js,json"
+  }
